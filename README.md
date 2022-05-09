@@ -2,8 +2,8 @@
 # 
 ### 👋 Hello! I'm NewYork Kim.
 
-I've been studying __Data Analysis__📊 using __Python__.  
-I am very interested in __Machine Learning__💻 and __NLP__💬.
+I've been studying __Data Analysis__ 📊 using __Python__.  
+I am very interested in __Machine Learning__ 💻 and __NLP__ 💬.
 
 <br/> 
 
