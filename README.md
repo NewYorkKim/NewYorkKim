@@ -3,12 +3,13 @@
 <br/>
 
 Hello! I'm NewYork Kim. <br/>
-I've been studying __Data Analysis__ and __Machine Learning__ using __Python__. 
+I've been studying __iOS Development__ using __SwiftUI__. 
 
 <br/> 
 
 ## I've learned
 ![python](https://img.shields.io/badge/-python-white?style=for-the-badge&logo=python)
+![swift](https://img.shields.io/badge/-swift-white?style=for-the-badge&logo=swift)
 ![HTML](https://img.shields.io/badge/-HTML-white?style=for-the-badge&logo=html5) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=JavaScript) 
 ![R](https://img.shields.io/badge/-R-white?style=for-the-badge&logo=R&logoColor=blue)
@@ -19,6 +20,7 @@ I've been studying __Data Analysis__ and __Machine Learning__ using __Python__.
 ![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-white?style=for-the-badge&logo=VisualStudioCode&logoColor=blue) 
 ![JupyterNotebook](https://img.shields.io/badge/-Jupyter%20Notebook-white?style=for-the-badge&logo=Jupyter) 
 ![Notion](https://img.shields.io/badge/-Notion-white?style=for-the-badge&logo=Notion&logoColor=black)
+![Figma](https://img.shields.io/badge/-Figma%20Search-white?style=for-the-badge&logo=figma&logoColor=gray)
 ![MySQL](https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=mongodb)
 ![ElasticSearch](https://img.shields.io/badge/-Elastic%20Search-white?style=for-the-badge&logo=elasticsearch&logoColor=gray)
@@ -29,6 +31,7 @@ I've been studying __Data Analysis__ and __Machine Learning__ using __Python__.
 ![AWS](https://img.shields.io/badge/-AWS-white?style=for-the-badge&logo=amazon)
 ![Firebase](https://img.shields.io/badge/-Firebase-white?style=for-the-badge&logo=firebase)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=for-the-badge&logo=typescript&logoColor=blue)
+![Blender](https://img.shields.io/badge/-Blender-white?style=for-the-badge&logo=blender)
 
 <br/>
 
@@ -40,10 +43,12 @@ I've been studying __Data Analysis__ and __Machine Learning__ using __Python__.
 |[[멀티캠퍼스] 금융서비스•마케팅 분야 분석 종합 프로젝트](https://github.com/NewYorkKim/Pension_Chatbot) |투자 성향 분석을 통한 개인퇴직 연금상품 추천 및 연금 관련 Q&A 챗봇 서비스 |![python](https://img.shields.io/badge/-python-white?style=for-the-badge&logo=python) ![django](https://img.shields.io/badge/-django-white?style=for-the-badge&logo=django&logoColor=green) ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=JavaScript) ![HTML](https://img.shields.io/badge/-HTML-white?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-white?style=for-the-badge&logo=css3&logoColor=blue) ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=mongodb) ![ElasticSearch](https://img.shields.io/badge/-Elastic%20Search-white?style=for-the-badge&logo=elasticsearch&logoColor=gray) |2022/05/01 ~ 2022/06/08|
 |[[데이콘 X KRX] 제1회 KRX 금융 빅데이터 활용 아이디어 경진대회](https://github.com/NewYorkKim/KRX_2022) |AI 댓글 감성분석 점수를 활용한 국내 주식시장 심리지수 | ![python](https://img.shields.io/badge/-python-white?style=for-the-badge&logo=python) ![streamlit](https://img.shields.io/badge/-streamlit-white?style=for-the-badge&logo=streamlit)| 2022/06/27 ~ 2022/09/08|
 |[[한국관광고사 X 카카오] 2022 관광데이터 활용 공모전](https://github.com/NewYorkKim/Yosul_Lamp) |전통주 테마 여행 안내 모바일 애플리케이션 개발 |![React Native](https://img.shields.io/badge/-ReactNative-white?style=for-the-badge&logo=react) ![Expo](https://img.shields.io/badge/-expo-white?style=for-the-badge&logo=expo&logoColor=black) ![python](https://img.shields.io/badge/-python-white?style=for-the-badge&logo=python) ![Firebase](https://img.shields.io/badge/-Firebase-white?style=for-the-badge&logo=firebase) |2022/04/12 ~ 2022/10/06|
+|[[서울경제진흥원] 새싹톤(SeSACTHON)](https://github.com/SeSACTeamConnected/ForestTori) |은둔청년 은둔극복 프로젝트  |![SwiftUI](https://img.shields.io/badge/-Swift-white?style=for-the-badge&logo=swift) ![CoreData](https://img.shields.io/badge/-CoreData-white?style=for-the-badge&logo=swift) |2023/05/09 ~ 2023/06/16|
 
 
 <br/>
 
 ### 📫 Contact
 [![GitHub](http://img.shields.io/badge/GitHub-black?style=flat&logo=github&link=https://github.com/NewYorkKim)](https://github.com/NewYorkKim) 
+[![Linkedin](http://img.shields.io/badge/Linkedin-white?style=flat&logo=github&link=https://linkedin.com/in/newyorkkim)](https://www.linkedin.com/in/newyorkkim)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:newyorkkim1030@gmail.com)](mailto:newyorkkim1030@gmail.com)
